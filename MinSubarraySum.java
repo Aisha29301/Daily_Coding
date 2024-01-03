@@ -37,5 +37,6 @@ public class MinSubarraySum {
         }
         int result = minSubarraySum(arr, n, k);
         System.out.println(result);
+        sc.close();
     }
 }
