@@ -26,27 +26,16 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Read the number of test cases
         int t = scanner.nextInt();
-
-        // Process each test case
         for (int i = 0; i < t; i++) {
-            // Read the size of the array
             int n = scanner.nextInt();
-
-            // Read the array elements
             int[] arr = new int[n];
             for (int j = 0; j < n; j++) {
                 arr[j] = scanner.nextInt();
             }
-
-            // Call the flipBits function and print the result
             int result = flipBits(arr, n);
             System.out.println(result);
         }
-
-        // Close the scanner
         scanner.close();
     }
 }
