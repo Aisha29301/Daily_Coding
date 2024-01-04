@@ -16,13 +16,11 @@ public class StringPalindrome {
 
 			if (start <= end && Character.toLowerCase(str.charAt(start)) != Character.toLowerCase(str.charAt(end)))
 				return false;
-
+				
 			start++;
 			end--;
 		}
-
 		return true;
-	    
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -36,6 +34,5 @@ public class StringPalindrome {
             }
         }
 		sc.close();
-
     }
 }
