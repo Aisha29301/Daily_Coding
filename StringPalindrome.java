@@ -35,6 +35,7 @@ public class StringPalindrome {
                 System.out.println("No");
             }
         }
+		sc.close();
 
     }
 }
