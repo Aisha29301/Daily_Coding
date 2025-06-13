@@ -30,6 +30,6 @@ public class LongestSubstrAllUnique {
     }
 
     public static void main(String[] args) {
-        System.out.println(longestAllSubstr(""));
+        System.out.println(longestAllSubstr("pwwkew"));
     }
 }
