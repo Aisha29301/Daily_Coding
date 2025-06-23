@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestSubarrKSum",
+            "request": "launch",
+            "mainClass": "LongestSubarrKSum",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "FruitOfBasket",
             "request": "launch",
             "mainClass": "FruitOfBasket",
