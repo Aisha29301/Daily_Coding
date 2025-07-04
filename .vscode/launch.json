@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "UserMainCode",
+            "request": "launch",
+            "mainClass": "UserMainCode",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "L930",
             "request": "launch",
             "mainClass": "L930",
