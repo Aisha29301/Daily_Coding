@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "UserMainCode",
+            "request": "launch",
+            "mainClass": "UserMainCode",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "L930",
+            "request": "launch",
+            "mainClass": "L930",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "L1456",
+            "request": "launch",
+            "mainClass": "L1456",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "MinWinSubstr",
+            "request": "launch",
+            "mainClass": "MinWinSubstr",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarrKSum",
+            "request": "launch",
+            "mainClass": "LongestSubarrKSum",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "FruitOfBasket",
             "request": "launch",
             "mainClass": "FruitOfBasket",
