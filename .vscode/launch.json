@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Strings.Test2",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicate",
             "request": "launch",
             "mainClass": "FindDuplicate",
