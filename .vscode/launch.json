@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveSpace",
+            "request": "launch",
+            "mainClass": "RemoveSpace",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "ProductExceptSelf",
             "request": "launch",
             "mainClass": "Arrays.ProductExceptSelf",
