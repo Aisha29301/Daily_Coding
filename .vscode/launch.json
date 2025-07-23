@@ -6,23 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Test2",
+            "name": "ProductExceptSelf",
             "request": "launch",
-            "mainClass": "Strings.Test2",
-            "projectName": "Daily_Coding_3cea1d89"
-        },
-        {
-            "type": "java",
-            "name": "Test2",
-            "request": "launch",
-            "mainClass": "Test2",
-            "projectName": "Daily_Coding_3cea1d89"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "Test",
+            "mainClass": "Arrays.ProductExceptSelf",
             "projectName": "Daily_Coding_3cea1d89"
         },
         {
