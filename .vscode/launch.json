@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RangeSumQuery",
+            "request": "launch",
+            "mainClass": "PrefixSum.RangeSumQuery",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "MinStartValue",
+            "request": "launch",
+            "mainClass": "MinStartValue",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "CountPalindromeSubstring",
             "request": "launch",
             "mainClass": "CountPalindromeSubstring",
