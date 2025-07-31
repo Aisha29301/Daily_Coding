@@ -75,5 +75,6 @@ class FractionalKnapsack {
         double maxProfit = fractionalKnapsack(profit, weights, n, capacity);
 
         System.out.println("Maximum value in knapsack = " + maxProfit);
+        sc.close();
     }
 }

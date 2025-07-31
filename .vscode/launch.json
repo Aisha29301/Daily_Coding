@@ -9,6 +9,46 @@
             "name": "StarGraph",
             "request": "launch",
             "mainClass": "Graph.StarGraph",
+        },
+        {
+            "name": "RangeSumQuery",
+            "request": "launch",
+            "mainClass": "PrefixSum.RangeSumQuery",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "MinStartValue",
+            "request": "launch",
+            "mainClass": "MinStartValue",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "CountPalindromeSubstring",
+            "request": "launch",
+            "mainClass": "CountPalindromeSubstring",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "CountingBits",
+            "request": "launch",
+            "mainClass": "BitManipulation.CountingBits",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
             "projectName": "Daily_Coding_3cea1d89"
         },
         {
