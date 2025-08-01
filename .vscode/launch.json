@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Start",
+            "request": "launch",
+            "mainClass": "StreamAPI.Start",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "CountChar",
+            "request": "launch",
+            "mainClass": "StreamAPI.CountChar",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
+            "name": "RangeCovered",
+            "request": "launch",
+            "mainClass": "PrefixSum.RangeCovered",
+            "projectName": "Daily_Coding_3cea1d89"
+        },
+        {
+            "type": "java",
             "name": "RangeSumQuery",
             "request": "launch",
             "mainClass": "PrefixSum.RangeSumQuery",
